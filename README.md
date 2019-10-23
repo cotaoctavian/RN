@@ -1,3 +1,3 @@
 # RN
 
-Homeworks that I did for the Neuronal Networks course.
+Assignments that I did for the Neuronal Networks course.
