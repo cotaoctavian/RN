@@ -1,0 +1,5 @@
+Accuracy on training set: 98.63 %
+-------------------------
+Accuracy on validation set: 97.47 %
+-------------------------
+Accuracy on test set: 97.39 %
