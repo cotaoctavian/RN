@@ -175,21 +175,3 @@ else:
 
     x = get_final_result(inv_matrix, b)  # Matricea X
     print(f"Solutia ecuatiei este: \n {x}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
